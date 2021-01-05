@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29326.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tatres", "Tatres\Tatres.csproj", "{2A7C2953-CEDC-4522-B6C7-EB4431F21EE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A7C2953-CEDC-4522-B6C7-EB4431F21EE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A7C2953-CEDC-4522-B6C7-EB4431F21EE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A7C2953-CEDC-4522-B6C7-EB4431F21EE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A7C2953-CEDC-4522-B6C7-EB4431F21EE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01C8729B-B6CE-49F8-894E-8137FEF10710}
+	EndGlobalSection
+EndGlobal

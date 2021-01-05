@@ -1,0 +1,11 @@
+C:\Users\swite\YandexDisk\repos\Tatres\Tatres\bin\Debug\netcoreapp3.0\Tatres.exe
+C:\Users\swite\YandexDisk\repos\Tatres\Tatres\bin\Debug\netcoreapp3.0\Tatres.deps.json
+C:\Users\swite\YandexDisk\repos\Tatres\Tatres\bin\Debug\netcoreapp3.0\Tatres.runtimeconfig.json
+C:\Users\swite\YandexDisk\repos\Tatres\Tatres\bin\Debug\netcoreapp3.0\Tatres.runtimeconfig.dev.json
+C:\Users\swite\YandexDisk\repos\Tatres\Tatres\bin\Debug\netcoreapp3.0\Tatres.dll
+C:\Users\swite\YandexDisk\repos\Tatres\Tatres\bin\Debug\netcoreapp3.0\Tatres.pdb
+C:\Users\swite\YandexDisk\repos\Tatres\Tatres\obj\Debug\netcoreapp3.0\Tatres.csprojAssemblyReference.cache
+C:\Users\swite\YandexDisk\repos\Tatres\Tatres\obj\Debug\netcoreapp3.0\Tatres.AssemblyInfoInputs.cache
+C:\Users\swite\YandexDisk\repos\Tatres\Tatres\obj\Debug\netcoreapp3.0\Tatres.AssemblyInfo.cs
+C:\Users\swite\YandexDisk\repos\Tatres\Tatres\obj\Debug\netcoreapp3.0\Tatres.dll
+C:\Users\swite\YandexDisk\repos\Tatres\Tatres\obj\Debug\netcoreapp3.0\Tatres.pdb
